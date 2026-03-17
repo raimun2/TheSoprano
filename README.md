@@ -8,9 +8,9 @@
 
 As a guitarist, I’ve always been grateful for the existence of the bass guitar. It uses the exact same notes and the exact same digitation, but sits one octave lower in a much larger body. It exists to supplement the soundscape with deep frequencies and thickness.
 
-Because of that perfect symmetry, I always felt there was a missing piece on the exact opposite side of the spectrum: a soprano guitar. I wanted an instrument that mirrored the bass logic—four strings, all perfect fourths—but sat one octave *above* the standard guitar. 
+Because of that perfect symmetry, I always felt there was a missing piece on the exact opposite side of the spectrum: a soprano guitar. I wanted an instrument that mirrored the logic, but sat one octave *above* the standard guitar. 
 
-To be fair, some approximations to this concept exist. You can find piccolo guitars or specialized travel instruments, but they are expensive, niche, and largely unavailable. I didn't want a boutique collector's item; I needed a highly portable, low-cost tool with a quiet but rich sound that I could throw in a backpack.
+To be fair, some approximations to this concept exist. You can find piccolo guitars or specialized travel instruments, but they are expensive, niche, and largely unavailable. I didn't want a boutique collector's item; I needed a highly portable, low-cost tool with a familiar and rich sound that I could throw in a backpack.
 
 So, I built it myself.
 
@@ -26,11 +26,15 @@ If you play bass or the bottom strings of a guitar, you already know the entire 
 
 ---
 
-## The Secret: Why it doesn't sound like a Ukulele
+## The Secret: Why it sounds like a Guitar
 
-The magic of The Soprano isn't just the tuning; it's the hardware. A standard ukulele uses thin nylon strings that produce a sweet, short "plink." 
+The magic of **The Soprano** isn't just the tuning; it's a fundamental hardware refactoring. 
 
-The Soprano uses **wound metal classical guitar strings** for the low E and A. Putting thick, wound strings on a short 15-inch scale creates high tension and real mass. The result is a warm, percussive attack with actual sustain. It gives you the physical resistance and tactile response of a real guitar in a body you can take on a hike.
+A standard ukulele is designed for high-frequency sweetness. It usually features "reentrant" tuning (where the 4th string is tuned higher than the 3rd), creating that characteristic, airy "plink" that lacks any structural weight.
+
+**The Soprano** destroys this limitation by utilizing **wound metal classical guitar strings** for the low E and A. Putting thick, wound strings on a short 15-inch scale creates high tension and real mass.
+
+The result is a warm, percussive attack with actual sustain. It gives you the physical resistance and tactile response of a real guitar in a body you can take on a hike.
 
 ---
 
